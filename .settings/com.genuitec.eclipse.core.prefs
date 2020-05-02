@@ -1,0 +1,4 @@
+#Fri Jul 26 22:29:22 CST 2013
+eclipse.preferences.version=1
+validator.Checked=WebRoot/fckeditor/editor,src/struts.xml,WebRoot/js/jquery.js
+validator.Unchecked=
